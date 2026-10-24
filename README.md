@@ -26,7 +26,6 @@ bus-customer-management/
 ├── data/
 │   ├── dulieu.txt                # Dữ liệu khách hàng (mỗi khách 5 dòng)
 │   └── count.txt                 # Số lượng khách hàng trong dulieu.txt
-├── .gitignore
 └── README.md
 ```
 
